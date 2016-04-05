@@ -116,8 +116,8 @@
                  uiPanelInvisibleComponentAlpha="0.5" uiPanelTooltipBackgroundColour="0xffeeeebb"
                  uiPanelTooltipOutlineColour="0xff000000" uiPanelTooltipColour="0xff000000"
                  uiPanelTooltipCornerRound="1" uiPanelTooltipPlacement="2" uiPanelTooltipFont="&lt;Sans-Serif&gt;;15;1;0;0;0;1;3"
-                 uiPanelZoom="0.9000000000000000222" uiPanelViewPortSize="832"
-                 uiPanelPropertiesSize="293">
+                 uiPanelZoom="0.9000000000000000222" uiPanelPropertiesSize="293"
+                 uiPanelViewPortSize="832">
     <uiPanelCanvasLayer uiPanelCanvasLayerName="New layer" uiPanelCanvasLayerUid="8dc41959c70900000066a13cf47f0000"
                         uiPanelCanvasLayerColour="0x000000" uiPanelCanvasLayerVisibility="1"
                         uiPanelCanvasLayerIndex="0"/>
@@ -154,8 +154,7 @@
                uiButtonConnectedLeft="0" uiButtonConnectedRight="0" uiButtonConnectedTop="0"
                uiButtonConnectedBottom="0" uiButtonRepeat="0" uiButtonRepeatRate="100"
                uiButtonTriggerOnMouseDown="0" componentInternalFunction="-- None"
-               componentRectangle="392 176 73 0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               uiType="uiButton"/>
+               componentRectangle="392 176 73 0" uiType="uiButton" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="0" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -190,8 +189,7 @@
                uiButtonConnectedLeft="0" uiButtonConnectedRight="0" uiButtonConnectedTop="0"
                uiButtonConnectedBottom="0" uiButtonRepeat="0" uiButtonRepeatRate="100"
                uiButtonTriggerOnMouseDown="0" componentInternalFunction="-- None"
-               componentRectangle="8 8 88 32" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               uiType="uiButton"/>
+               componentRectangle="8 8 88 32" uiType="uiButton" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorCustomIndex="" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
              name="grp3eq" modulatorVstExported="0" modulatorValue="0">
@@ -214,8 +212,8 @@
                uiGroupBackgroundImageLayout="36" uiGroupBackgroundImageAlpha="255"
                uiGroupTextPlacement="top" uiGroupTextFont="&lt;Sans-Serif&gt;;14;0;0;0;0;1;3"
                uiGroupOutlineThickness="2" uiGroupOutlineRoundAngle="8" uiGroupTextMargin="3"
-               uiType="uiGroup" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentTabName="configTabs" componentTabId="0"/>
+               componentTabId="0" componentTabName="configTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               uiType="uiGroup"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="4" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -257,8 +255,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 32 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="80 32 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="9999" vstIndex="5" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -300,8 +298,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="8 104 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 104 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="9999" vstIndex="6" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -343,8 +341,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 176 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="8 176 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="7" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -386,8 +384,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="80 104 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 104 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="8" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -429,8 +427,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 176 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="80 176 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="9" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -472,8 +470,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="152 104 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="152 104 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorCustomIndex="" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
              name="grp3eq-1" modulatorVstExported="0" modulatorValue="0">
@@ -492,12 +490,12 @@
                uiGroupTextColour="0xff000000" uiGroupOutlineColour1="0xffa3a3a3"
                uiGroupOutlineColour2="0xffffffff" uiGroupBackgroundColour1="0xffa3a3a3"
                uiGroupBackgroundColour2="0xffffffff" uiGroupOutlineGradientType="Vertical"
-               uiGroupBackgroundGradientType="1" uiGroupBackgroundImage="" componentRectangle="8 8 227 401"
+               uiGroupBackgroundGradientType="1" uiGroupBackgroundImage="" componentRectangle="0 0 227 401"
                uiGroupBackgroundImageLayout="36" uiGroupBackgroundImageAlpha="255"
                uiGroupTextPlacement="top" uiGroupTextFont="&lt;Sans-Serif&gt;;14;0;0;0;0;1;3"
                uiGroupOutlineThickness="2" uiGroupOutlineRoundAngle="8" uiGroupTextMargin="3"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiGroup"
-               componentTabName="configTabs" componentTabId="3"/>
+               componentTabId="3" componentTabName="configTabs" uiType="uiGroup"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="999" vstIndex="2015" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -539,8 +537,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 32 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="8 32 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2016" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -582,8 +580,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="80 32 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 32 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="999" vstIndex="2" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -625,8 +623,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="8 32 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 32 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2018" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -668,8 +666,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="152 104 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="152 104 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2019" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -711,8 +709,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 104 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="80 104 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="9999" vstIndex="2020"
              modulatorIsStatic="0" modulatorGlobalVariable="-1" modulatorMuteOnStart="0"
@@ -754,8 +752,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 104 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="8 104 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="9999" vstIndex="2021"
              modulatorIsStatic="0" modulatorGlobalVariable="-1" modulatorMuteOnStart="0"
@@ -797,8 +795,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="8 176 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 176 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2022" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -840,8 +838,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="80 176 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 176 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2023" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -883,8 +881,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="152 176 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="152 176 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="9999" vstIndex="2024"
              modulatorIsStatic="0" modulatorGlobalVariable="-1" modulatorMuteOnStart="0"
@@ -926,8 +924,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="8 248 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 248 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2025" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -969,8 +967,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="80 248 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 248 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2026" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1012,8 +1010,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="152 248 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="152 248 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="999" vstIndex="2027" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1055,8 +1053,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="8 320 64 64" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 320 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="560" vstIndex="2028" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1098,8 +1096,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 320 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="80 320 64 64" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorCustomIndex="" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
              name="modulator-1" modulatorVstExported="0" modulatorValue="0">
@@ -1122,8 +1120,8 @@
                uiGroupBackgroundImageLayout="36" uiGroupBackgroundImageAlpha="255"
                uiGroupTextPlacement="top" uiGroupTextFont="&lt;Sans-Serif&gt;;14;0;0;0;0;1;3"
                uiGroupOutlineThickness="2" uiGroupOutlineRoundAngle="8" uiGroupTextMargin="0"
-               uiType="uiGroup" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentTabName="configTabs" componentTabId="2"/>
+               componentTabId="2" componentTabName="configTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               uiType="uiGroup"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2029" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1165,8 +1163,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="8 24 44 136"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
+               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentRectangle="8 24 44 136" uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2030" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1208,8 +1206,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="40 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="40 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2031" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1251,8 +1249,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="72 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="72 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2032" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1294,8 +1292,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="104 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="104 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2033" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1337,8 +1335,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="136 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="136 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2034" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1380,8 +1378,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="168 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="168 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2035" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1423,8 +1421,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="200 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="200 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2036" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1466,8 +1464,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="232 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="232 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2037" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1509,8 +1507,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="264 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="264 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2038" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1552,8 +1550,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="296 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="296 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="28" vstIndex="2039" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1595,8 +1593,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="328 24 44 136" uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="328 24 44 136"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorCustomIndex="" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
              name="grp3eq-2" modulatorVstExported="0" modulatorValue="0">
@@ -1619,7 +1617,7 @@
                uiGroupBackgroundImageLayout="36" uiGroupBackgroundImageAlpha="255"
                uiGroupTextPlacement="top" uiGroupTextFont="&lt;Sans-Serif&gt;;14;0;0;0;0;1;3"
                uiGroupOutlineThickness="2" uiGroupOutlineRoundAngle="8" uiGroupTextMargin="3"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiGroup"/>
+               uiType="uiGroup" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorCustomIndex="01 07 00" modulatorCustomIndexGroup="0"
              modulatorIsStatic="1" name="configTabs" modulatorVstExported="0"
@@ -1643,8 +1641,8 @@
                uiTabsOutlineTabColour="0xff303030" uiTabsTextTabColour="0xff909090"
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="8 48 1116 553"
-               uiType="uiTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               uiTabsCurrentTab="0">
+               uiTabsCurrentTab="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               uiType="uiTabs">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="EQ&gt;PCH&gt;DL&gt;REVERB"
                  uiTabsTabContentBackgroundColour="ff000000" uiTabsTabBackgroundColour="ffd3d3d3"
                  uiTabsTabBackgroundImage="-- None" uiTabsTabBackgroundImageLayout="36"
@@ -1673,30 +1671,6 @@
                  uiTabsTabBackgroundImageLayout="36" uiTabsTabBackgroundImageAlpha="255"/>
     </component>
   </modulator>
-  <modulator modulatorCustomIndex="0" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
-             name="modulator-15" modulatorVstExported="0" modulatorValue="0">
-    <component componentLabelPosition="top" componentLabelJustification="centred"
-               componentLabelHeight="14" componentLabelWidth="0" componentLabelVisible="0"
-               componentLabelAlwaysOnTop="1" componentSentBack="0" componentLabelColour="0xff000000"
-               componentLabelFont="&lt;Sans-Serif&gt;;12;0;0;0;0;1;3" componentVisibleName="modulator-2"
-               componentMouseCursor="2" componentGroupName="" componentGroupped="1"
-               componentSnapSize="0" componentIsLocked="0" componentDisabled="0"
-               componentRadioGroupId="0" componentRadioGroupNotifyMidi="1" componentVisibility="1"
-               componentEffect="0" componentEffectRadius="1" componentEffectColour="0xff000000"
-               componentEffectOffsetX="0" componentEffectOffsetY="0" componentExcludedFromLabelDisplay="0"
-               componentValueDecimalPlaces="0" componentLuaMouseMoved="-- None"
-               componentLuaMouseDown="-- None" componentLuaMouseDrag="-- None"
-               componentLuaMouseDoubleClick="-- None" uiGroupText="Plate 1"
-               uiGroupTextColour="0xff000000" uiGroupOutlineColour1="0xffa3a3a3"
-               uiGroupOutlineColour2="0xffffffff" uiGroupBackgroundColour1="0xffa3a3a3"
-               uiGroupBackgroundColour2="0xffffffff" uiGroupOutlineGradientType="Vertical"
-               uiGroupBackgroundGradientType="1" uiGroupBackgroundImage="" componentRectangle="0 0 0 0"
-               uiGroupBackgroundImageLayout="36" uiGroupBackgroundImageAlpha="255"
-               uiGroupTextPlacement="top" uiGroupTextFont="&lt;Sans-Serif&gt;;14;0;0;0;0;1;3"
-               uiGroupOutlineThickness="2" uiGroupOutlineRoundAngle="8" uiGroupTextMargin="0"
-               componentTabId="0" componentTabName="configTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               uiType="uiGroup"/>
-  </modulator>
   <modulator modulatorCustomIndex="01 03 00" modulatorCustomIndexGroup="0"
              modulatorIsStatic="1" name="pitchConfig" modulatorVstExported="0"
              modulatorValue="0">
@@ -1719,8 +1693,8 @@
                uiTabsOutlineTabColour="0xff303030" uiTabsTextTabColour="0xff909090"
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="8 272 346 249"
-               uiType="uiTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentTabName="configTabs" componentTabId="0" uiTabsCurrentTab="0">
+               uiTabsCurrentTab="3" componentTabId="0" componentTabName="configTabs"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiTabs">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="M Chorus" uiTabsTabContentBackgroundColour="ffffff00"
                  uiTabsTabBackgroundColour="ffd3d3d3" uiTabsTabBackgroundImage="-- None"
                  uiTabsTabBackgroundImageLayout="36" uiTabsTabBackgroundImageAlpha="255"/>
@@ -1763,8 +1737,8 @@
                uiTabsOutlineTabColour="0xff303030" uiTabsTextTabColour="0xff909090"
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="360 272 256 249"
-               uiType="uiTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentTabName="configTabs" componentTabId="0" uiTabsCurrentTab="0">
+               uiTabsCurrentTab="0" componentTabId="0" componentTabName="configTabs"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiTabs">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="Mono Delay" uiTabsTabContentBackgroundColour="ffffff00"
                  uiTabsTabBackgroundColour="ffd3d3d3" uiTabsTabBackgroundImage="-- None"
                  uiTabsTabBackgroundImageLayout="36" uiTabsTabBackgroundImageAlpha="255"/>
@@ -1816,9 +1790,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 8 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 8 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="800" vstIndex="2056" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1860,9 +1834,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 72 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="24 72 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2057" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1904,9 +1878,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="104 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="104 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="198" vstIndex="2058" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1948,9 +1922,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="1" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 8 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 8 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="800" vstIndex="2060" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -1992,9 +1966,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="24 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="1"/>
+               uiSliderPopupBubble="0" componentTabId="1" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2061" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2036,9 +2010,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="1" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="104 72 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="104 72 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2062" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2080,9 +2054,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="104 144 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="1"/>
+               uiSliderPopupBubble="0" componentTabId="1" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="104 144 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="800" vstIndex="2063" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2124,9 +2098,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="1" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 144 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="24 144 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="198" vstIndex="2065" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2168,9 +2142,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="2" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 8 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 8 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="2"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2066" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2212,9 +2186,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="2" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="104 72 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="104 72 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="2"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="800" vstIndex="2067" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2256,9 +2230,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="24 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="2"/>
+               uiSliderPopupBubble="0" componentTabId="2" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2068" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2295,9 +2269,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="24 16 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
-               componentTabId="2"/>
+               uiComboSelectedIndex="-1" componentTabId="2" componentTabName="delayConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 16 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2069" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2334,9 +2308,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentTabId="1" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 16 88 32"
-               uiType="uiCombo"/>
+               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="24 16 88 32"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2070" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2373,9 +2347,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentTabId="0" componentTabName="delayConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="24 16 88 32"
-               uiType="uiCombo"/>
+               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="24 16 88 32"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="delayConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2071" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2412,9 +2386,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="120 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="0"/>
+               uiComboSelectedIndex="-1" componentTabId="0" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="120 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2072" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2456,9 +2430,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2073" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2500,9 +2474,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="88 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2074" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2544,9 +2518,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2075" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2583,9 +2557,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentTabId="1" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="120 8 88 32"
-               uiType="uiCombo"/>
+               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="120 8 88 32"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2076" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2627,9 +2601,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="1" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2077" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2671,9 +2645,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="1" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="88 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="1"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2078" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2715,9 +2689,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="1"/>
+               uiSliderPopupBubble="0" componentTabId="1" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2079" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2754,9 +2728,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
-               uiType="uiCombo"/>
+               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2080" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2798,9 +2772,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="246 1102 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="246 1102 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2081" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2842,9 +2816,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="318 1102 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="318 1102 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2082" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2886,9 +2860,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="390 1102 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="390 1102 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2084" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2930,9 +2904,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="286 1100 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="286 1100 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2085" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -2974,9 +2948,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="358 1100 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="358 1100 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="0"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2086" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3018,9 +2992,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="430 1100 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="430 1100 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2087" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3057,9 +3031,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="1"/>
+               uiComboSelectedIndex="-1" componentTabId="1" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2088" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3096,9 +3070,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="2"/>
+               uiComboSelectedIndex="-1" componentTabId="2" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2089" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3135,9 +3109,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="3"/>
+               uiComboSelectedIndex="-1" componentTabId="3" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2090" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3174,9 +3148,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="4"/>
+               uiComboSelectedIndex="-1" componentTabId="4" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2091" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3213,9 +3187,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="16 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="5"/>
+               uiComboSelectedIndex="-1" componentTabId="5" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2092" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3257,9 +3231,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="5"/>
+               uiSliderPopupBubble="0" componentTabId="5" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2093" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3301,9 +3275,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="88 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="5"/>
+               uiSliderPopupBubble="0" componentTabId="5" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2094" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3345,9 +3319,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="88 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="2"/>
+               uiSliderPopupBubble="0" componentTabId="2" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2095" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3389,9 +3363,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="2"/>
+               uiSliderPopupBubble="0" componentTabId="2" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2096" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3433,9 +3407,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="2" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="2"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2097" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3472,9 +3446,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="120 8 88 32"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="2"/>
+               uiComboSelectedIndex="-1" componentTabId="2" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="120 8 88 32"
+               uiType="uiCombo"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2098" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3511,9 +3485,9 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentTabId="3" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="120 8 88 32"
-               uiType="uiCombo"/>
+               uiComboSelectedIndex="-1" uiType="uiCombo" componentRectangle="120 8 88 32"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="3"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2099" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3555,9 +3529,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="3" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="3"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2100" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3599,9 +3573,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="160 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="3"/>
+               uiSliderPopupBubble="0" componentTabId="3" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="160 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2101" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3643,9 +3617,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentTabId="3" componentTabName="pitchConfig"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 56 64 64"
-               uiType="uiSlider"/>
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="88 56 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
+               componentTabId="3"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="198" vstIndex="2102" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3687,12 +3661,13 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="16 56 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="pitchConfig"
-               componentTabId="4"/>
+               uiSliderPopupBubble="0" componentTabId="4" componentTabName="pitchConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="16 56 64 64"
+               uiType="uiSlider"/>
   </modulator>
-  <modulator modulatorCustomIndex="0" modulatorCustomIndexGroup="0" modulatorIsStatic="1"
-             name="modulator-9" modulatorVstExported="0" modulatorValue="0">
+  <modulator modulatorCustomIndex="01 01 00" modulatorCustomIndexGroup="0"
+             modulatorIsStatic="1" name="revConfig" modulatorVstExported="0"
+             modulatorValue="0">
     <component componentLabelPosition="top" componentLabelJustification="centred"
                componentLabelHeight="14" componentLabelWidth="0" componentLabelVisible="0"
                componentLabelAlwaysOnTop="1" componentSentBack="0" componentLabelColour="0xff000000"
@@ -3712,8 +3687,8 @@
                uiTabsOutlineTabColour="0xff303030" uiTabsTextTabColour="0xff909090"
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="248 8 438 257"
-               uiTabsCurrentTab="0" componentTabId="0" componentTabName="configTabs"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiTabs">
+               uiType="uiTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
+               componentTabName="configTabs" componentTabId="0" uiTabsCurrentTab="0">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="Plate 1" uiTabsTabContentBackgroundColour="ffffff00"
                  uiTabsTabBackgroundColour="ffd3d3d3" uiTabsTabBackgroundImage="-- None"
                  uiTabsTabBackgroundImageLayout="36" uiTabsTabBackgroundImageAlpha="255"/>
@@ -3741,7 +3716,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 01" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-4" modulatorMin="0">
+             name="revIn1" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3766,9 +3741,8 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="16 8 88 32" uiType="uiCombo" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiComboSelectedIndex="-1" componentTabId="0" componentTabName="revConfig"
+               uiType="uiCombo" componentRectangle="16 8 88 32" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="198" vstIndex="2104" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3780,7 +3754,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-5" modulatorMin="0">
+             name="revInMix" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3810,9 +3784,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="112 0 64 64" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="112 0 64 64" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2105" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3824,7 +3797,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-6" modulatorMin="0">
+             name="revIn2" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3849,9 +3822,8 @@
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
-               uiComboSelectedIndex="-1" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="184 8 88 32" uiType="uiCombo" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiComboSelectedIndex="-1" componentTabId="0" componentTabName="revConfig"
+               uiType="uiCombo" componentRectangle="184 8 88 32" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="60" vstIndex="2106" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3863,7 +3835,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="pltLoDec" modulatorMin="0">
+             name="revLoDec" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3893,9 +3865,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="336 24 44 136"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="336 24 44 136"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="60" vstIndex="2107" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3907,7 +3879,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="pltHiDec" modulatorMin="0">
+             name="revHiDec" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3937,9 +3909,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="384 24 44 136" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="384 24 44 136" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="8" vstIndex="2108" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3951,7 +3922,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-11" modulatorMin="0">
+             name="revDens" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -3981,9 +3952,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="272 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="272 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2109" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -3995,7 +3966,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-7" modulatorMin="0">
+             name="revDec" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4025,9 +3996,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="144 72 64 64" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="144 72 64 64" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="198" vstIndex="2110" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4039,7 +4009,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-8" modulatorMin="0">
+             name="revPreMix" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4069,9 +4039,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="80 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="80 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="140" vstIndex="2111" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4083,7 +4053,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-10" modulatorMin="0">
+             name="revPre" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4113,9 +4083,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="16 72 64 64" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="16 72 64 64" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2112" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4127,7 +4096,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="pltGate" modulatorMin="0" modulatorValue="0">
+             name="revGate" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4145,9 +4114,8 @@
                componentLuaMouseDoubleClick="-- None" uiButtonTextColourOn="0xff000000"
                uiToggleButtonFocusOutline="0x00000000" uiToggleButtonText=""
                uiButtonTrueValue="1" uiButtonFalseValue="0" uiButtonColourOff="0xff0000ff"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiToggleButton"
-               componentRectangle="24 160 32 32" componentTabName="modulator-9"
-               componentTabId="0"/>
+               componentRectangle="24 160 32 32" componentTabId="0" componentTabName="revConfig"
+               uiType="uiToggleButton" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2113" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4159,7 +4127,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="revGateHld" modulatorMin="0">
+             name="revGateHld" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4189,9 +4157,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="72 144 64 64" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="72 144 64 64" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2114" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4203,7 +4170,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 0d" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="revGateRel" modulatorMin="0">
+             name="revGateRel" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4233,9 +4200,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="136 144 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="136 144 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2115" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4247,7 +4214,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 0e" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="revGateLev" modulatorMin="0">
+             name="revGateLev" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4277,9 +4244,8 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentRectangle="200 144 64 64" uiType="uiSlider" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               uiType="uiSlider" componentRectangle="200 144 64 64" componentLayerUid="8dc41959c70900000066a13cf47f0000"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="8" vstIndex="2116" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
@@ -4291,7 +4257,7 @@
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
              modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="modulator-12" modulatorMin="0">
+             name="revDiff" modulatorMin="0" modulatorValue="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -4321,9 +4287,9 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="208 72 64 64"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="modulator-9"
-               componentTabId="0"/>
+               uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="208 72 64 64"
+               uiType="uiSlider"/>
   </modulator>
   <panelCustomData/>
 </panel>
