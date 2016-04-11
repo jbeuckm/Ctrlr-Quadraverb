@@ -15473,7 +15473,6 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-2"
                componentTabId="4"/>
   </modulator>
-  <panelCustomData/>
   <modulator modulatorCustomIndex="01 01 00" modulatorCustomIndexGroup="0"
              modulatorIsStatic="1" name="revConfig-3" modulatorVstExported="0">
     <component componentLabelPosition="top" componentLabelJustification="centred"
@@ -15496,7 +15495,7 @@
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="248 8 413 254"
                uiType="uiTabs" componentLayerUid="8dc41959c70900000066a13cf47f0000"
-               componentTabName="configTabs" componentTabId="1" uiTabsCurrentTab="4">
+               componentTabName="configTabs" componentTabId="1" uiTabsCurrentTab="0">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="Plate 1" uiTabsTabContentBackgroundColour="ffffff00"
                  uiTabsTabBackgroundColour="ffd3d3d3" uiTabsTabBackgroundImage="-- None"
                  uiTabsTabBackgroundImageLayout="36" uiTabsTabBackgroundImageAlpha="255"/>
@@ -16700,7 +16699,7 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-3"
                componentTabId="1"/>
   </modulator>
-  <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2740" modulatorIsStatic="0"
+  <modulator modulatorVstExported="1" modulatorMax="2" vstIndex="2740" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
              modulatorExcludeFromSnapshot="0" modulatorValueExpression="modulatorValue"
              modulatorValueExpressionReverse="midiValue" modulatorControllerExpression="value"
@@ -16731,7 +16730,7 @@
                uiComboMenuFont="&lt;Sans-Serif&gt;;16;0;0;0;0;1;3" uiComboButtonColour="0xff0000ff"
                uiComboBgColour="0xffffffff" uiComboMenuBackgroundColour="0xfff0f0f0"
                uiComboMenuFontColour="0xff000000" uiComboMenuHighlightColour="ffadd8e6"
-               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-EQ&#10;Post-EQ"
+               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-Lezlie&#10;Post-Lezlie&#10;Delay Input"
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
@@ -16783,7 +16782,7 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-3"
                componentTabId="1"/>
   </modulator>
-  <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2742" modulatorIsStatic="0"
+  <modulator modulatorVstExported="1" modulatorMax="2" vstIndex="2742" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
              modulatorExcludeFromSnapshot="0" modulatorValueExpression="modulatorValue"
              modulatorValueExpressionReverse="midiValue" modulatorControllerExpression="value"
@@ -16814,7 +16813,7 @@
                uiComboMenuFont="&lt;Sans-Serif&gt;;16;0;0;0;0;1;3" uiComboButtonColour="0xff0000ff"
                uiComboBgColour="0xffffffff" uiComboMenuBackgroundColour="0xfff0f0f0"
                uiComboMenuFontColour="0xff000000" uiComboMenuHighlightColour="ffadd8e6"
-               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-EQ&#10;Post-EQ"
+               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-Lezlie&#10;Post-Lezlie&#10;Delay Input"
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
@@ -17925,7 +17924,7 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="328 152 64 64"
                uiType="uiSlider"/>
   </modulator>
-  <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2769" modulatorIsStatic="0"
+  <modulator modulatorVstExported="1" modulatorMax="2" vstIndex="2769" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
              modulatorExcludeFromSnapshot="0" modulatorValueExpression="modulatorValue"
              modulatorValueExpressionReverse="midiValue" modulatorControllerExpression="value"
@@ -17956,7 +17955,7 @@
                uiComboMenuFont="&lt;Sans-Serif&gt;;16;0;0;0;0;1;3" uiComboButtonColour="0xff0000ff"
                uiComboBgColour="0xffffffff" uiComboMenuBackgroundColour="0xfff0f0f0"
                uiComboMenuFontColour="0xff000000" uiComboMenuHighlightColour="ffadd8e6"
-               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-EQ&#10;Post-EQ"
+               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-Lezlie&#10;Post-Lezlie&#10;Delay Input"
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
@@ -17964,7 +17963,7 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-3"
                componentTabId="3"/>
   </modulator>
-  <modulator modulatorVstExported="1" modulatorMax="1" vstIndex="2770" modulatorIsStatic="0"
+  <modulator modulatorVstExported="1" modulatorMax="2" vstIndex="2770" modulatorIsStatic="0"
              modulatorGlobalVariable="-1" modulatorMuteOnStart="0" modulatorMute="0"
              modulatorExcludeFromSnapshot="0" modulatorValueExpression="modulatorValue"
              modulatorValueExpressionReverse="midiValue" modulatorControllerExpression="value"
@@ -17995,7 +17994,7 @@
                uiComboMenuFont="&lt;Sans-Serif&gt;;16;0;0;0;0;1;3" uiComboButtonColour="0xff0000ff"
                uiComboBgColour="0xffffffff" uiComboMenuBackgroundColour="0xfff0f0f0"
                uiComboMenuFontColour="0xff000000" uiComboMenuHighlightColour="ffadd8e6"
-               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-EQ&#10;Post-EQ"
+               uiComboMenuFontHighlightedColour="0xff232323" uiComboContent="Pre-Lezlie&#10;Post-Lezlie&#10;Delay Input"
                uiComboMenuBackgroundRibbed="1" uiComboButtonGradient="0" uiComboButtonGradientColour1="ff0000ff"
                uiComboButtonGradientColour2="ff00008b" uiComboButtonWidthOverride="0"
                uiComboButtonWidth="16" uiComboDynamicContent="0" uiComboSelectedId="-1"
@@ -18394,4 +18393,5 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="80 144 64 64"
                uiType="uiSlider"/>
   </modulator>
+  <panelCustomData/>
 </panel>
