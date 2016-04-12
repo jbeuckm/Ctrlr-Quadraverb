@@ -18393,7 +18393,6 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="80 144 64 64"
                uiType="uiSlider"/>
   </modulator>
-  <panelCustomData/>
   <modulator modulatorCustomIndex="01 01 00" modulatorCustomIndexGroup="0"
              modulatorIsStatic="1" name="revConfig-4" modulatorVstExported="0">
     <component componentLabelPosition="top" componentLabelJustification="centred"
@@ -18415,7 +18414,7 @@
                uiTabsOutlineTabColour="0xff303030" uiTabsTextTabColour="0xff909090"
                uiTabsFrontTabOutlineColour="0xff000000" uiTabsFrontTabTextColour="0xff000000"
                uiTabsAddTab="0" uiTabsRemoveTab="0" componentRectangle="536 24 390 260"
-               uiTabsCurrentTab="0" componentTabId="4" componentTabName="configTabs"
+               uiTabsCurrentTab="4" componentTabId="4" componentTabName="configTabs"
                componentLayerUid="8dc41959c70900000066a13cf47f0000" uiType="uiTabs">
       <uiTabsTab uiTabsTabIndex="0" uiTabsTabName="Plate 2" uiTabsTabContentBackgroundColour="ffffff00"
                  uiTabsTabBackgroundColour="ffd3d3d3" uiTabsTabBackgroundImage="-- None"
@@ -18481,7 +18480,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreDly-20" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18525,7 +18524,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreMix-20" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18558,7 +18557,7 @@
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
                uiSliderPopupBubble="0" componentTabId="0" componentTabName="revConfig-4"
-               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="84 72 64 64"
+               componentLayerUid="8dc41959c70900000066a13cf47f0000" componentRectangle="88 72 64 64"
                uiType="uiSlider"/>
   </modulator>
   <modulator modulatorVstExported="1" modulatorMax="99" vstIndex="2785" modulatorIsStatic="0"
@@ -18569,7 +18568,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDecay-20" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18613,7 +18612,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDiff-20" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18645,7 +18644,7 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="220 72 64 64"
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="224 72 64 64"
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-4"
                componentTabId="0"/>
   </modulator>
@@ -18657,7 +18656,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDens-16" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18701,7 +18700,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revLoDec-20" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18745,7 +18744,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revHiDec-20" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18789,9 +18788,9 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="revGate-17" modulatorMin="0">
+             name="revGate-17" modulatorMin="0" modulatorValue="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -18820,7 +18819,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateHld-16" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18852,7 +18851,7 @@
                uiSliderVelocitySensitivity="1" uiSliderVelocityThreshold="1"
                uiSliderVelocityOffset="0" uiSliderVelocityMode="0" uiSliderVelocityModeKeyTrigger="1"
                uiSliderSpringMode="0" uiSliderSpringValue="0" uiSliderMouseWheelInterval="1"
-               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="220 152 64 64"
+               uiSliderPopupBubble="0" uiType="uiSlider" componentRectangle="224 152 64 64"
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-4"
                componentTabId="0"/>
   </modulator>
@@ -18864,7 +18863,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0d" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateRls-16" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -18908,7 +18907,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0e" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateLvl-20" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19074,7 +19073,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreDly-21" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19118,7 +19117,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreMix-21" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19162,7 +19161,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDecay-21" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19206,7 +19205,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDiff-21" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19250,7 +19249,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDens-17" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19294,7 +19293,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0d" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateRls-17" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19338,7 +19337,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateHld-17" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19382,7 +19381,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGate-18" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19413,7 +19412,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revHiDec-21" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19457,7 +19456,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revLoDec-21" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19501,7 +19500,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0e" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateLvl-22" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19584,7 +19583,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDens-18" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19628,7 +19627,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDiff-22" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19672,7 +19671,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDecay-22" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19716,7 +19715,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreMix-22" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19760,7 +19759,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreDly-22" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19804,7 +19803,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revLoDec-22" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19848,7 +19847,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revHiDec-22" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19892,7 +19891,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateHld-18" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19936,7 +19935,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0d" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateRls-18" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -19980,7 +19979,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0e" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateLvl-23" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20024,7 +20023,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGate-19" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20133,7 +20132,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreDly-23" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20177,7 +20176,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreMix-23" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20221,7 +20220,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDecay-23" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20265,7 +20264,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDiff-23" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20309,7 +20308,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revLoDec-23" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20353,7 +20352,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revHiDec-23" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20397,9 +20396,9 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
-             name="revGate-20" modulatorMin="0">
+             name="revGate-20" modulatorMin="0" modulatorValue="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
           midiMessageCtrlrNumber="1" midiMessageCtrlrValue="0" midiMessageMultiList=""
           midiMessageSysExFormula=""/>
@@ -20428,7 +20427,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateHld-19" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20472,7 +20471,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0c" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateRls-19" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20516,7 +20515,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0d" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 0b" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revGateLvl-24" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20599,7 +20598,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 02" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreDly-24" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20643,7 +20642,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 03" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revPreMix-24" modulatorMin="1">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20687,7 +20686,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 04" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDecay-24" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20731,7 +20730,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 05" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDiff-24" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20775,7 +20774,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 06" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revDens-19" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20819,7 +20818,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 09" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 07" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revLoDec-24" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20863,7 +20862,7 @@
              modulatorLinkedToPanelProperty="-- None" modulatorLinkedToModulatorProperty="-- None"
              modulatorLinkedToModulator="-- None" modulatorLinkedToModulatorSource="1"
              modulatorLinkedToComponent="Modulator" modulatorBaseValue="0"
-             modulatorCustomIndex="01 01 0a" modulatorCustomName="" modulatorCustomIndexGroup="0"
+             modulatorCustomIndex="01 01 08" modulatorCustomName="" modulatorCustomIndexGroup="0"
              modulatorCustomNameGroup="" modulatorVstNameFormat="%n" luaModulatorValueChange="-- None"
              name="revHiDec-24" modulatorMin="0">
     <midi midiMessageType="9" midiMessageChannelOverride="0" midiMessageChannel="1"
@@ -20899,4 +20898,5 @@
                componentLayerUid="8dc41959c70900000066a13cf47f0000" componentTabName="revConfig-4"
                componentTabId="4"/>
   </modulator>
+  <panelCustomData/>
 </panel>
